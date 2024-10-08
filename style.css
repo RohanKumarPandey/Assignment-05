@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand .logo {
+    width: 50px;
+}
+
+.hero {
+    background-color: #007bff;
+    color: white;
+}
+
+.feature-box {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-icons i {
+    margin: 0 10px;
+    color: white;
+    font-size: 20px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer h5 {
+    font-weight: bold;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .fab {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+footer .fab:hover {
+    color: #007bff;
+}
+
+.col-md-3 a img {
+    width: 50px;
+}
